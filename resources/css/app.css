@@ -1,0 +1,21 @@
+@import "typo/webfonts.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply antialiased;
+}
+
+p {
+  @apply mb-16
+}
+
+ul {
+  @apply mb-16;
+}
+
+li {
+  @apply list-disc ml-24;
+}
