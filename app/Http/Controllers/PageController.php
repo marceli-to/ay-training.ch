@@ -4,7 +4,6 @@ use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
-  protected $viewPath = 'web.pages.';
 
   /**
    * Shows the homepage
@@ -13,6 +12,6 @@ class PageController extends Controller
    */
   public function index()
   {  
-    return view($this->viewPath . 'home');
+    return view('home');
   }
 }
