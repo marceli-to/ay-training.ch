@@ -7,7 +7,7 @@
     <x-heading.h3 class="!mb-0">
       {{ $name}}
     </x-heading.h3>
-    <a href="mailto:{{ $email }}" class="underline underline-offset-4 decoration-1 hover:no-underline hover:text-teal block mb-4">
+    <a href="mailto:{{ $email }}" class="underline underline-offset-4 decoration-1 hover:no-underline hover:text-teal block py-4 sm:py-0 mb-4">
       {{ $email }}
     </a>
     {{ $slot }}
