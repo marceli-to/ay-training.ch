@@ -6,8 +6,8 @@
     src="/media/{{ $image }}.jpg" 
     alt="{{ $alt }}" 
     title="{{ $alt }}" 
-    height="1024" 
-    width="1024" 
+    height="300" 
+    width="300" 
     loading="lazy"
     {{ $attributes->merge(['class' => 'w-full aspect-square']) }}>
 </picture>
