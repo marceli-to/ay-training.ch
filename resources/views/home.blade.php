@@ -70,8 +70,10 @@
           <p>Wir sind ein Team aus erfahrenen Fachpersonen aus den Bereichen Pflege, Psychiatrie, Sozialpädagogik und Sozialarbeit. Wir verfügen über langjährige Erfahrung in der Arbeit mit Menschen mit herausforderndem Verhalten, Aggression und Gewalt. Wir sind ausgebildete Trainerinnen und Trainer für Prävention und Deeskalation und verfügen über eine NAGS Zertifizierung.</p>
           <div class="mt-36 md:mt-48">
             <x-team image="ay-training-anita-stooss" name="Anita Stooss" email="anita.stooss@ay-training.ch">
+              <x-cv.anita />
             </x-team>
             <x-team image="ay-training-yugus-uenver" name="Yugus Uenver" email="yugus.uenver@ay-training.ch" class="!mb-0">
+              <x-cv.yugus />
             </x-team>
           </div>
         </article>
@@ -80,7 +82,7 @@
   </x-layout.inner>
 </x-layout.section>
 
-<x-layout.section class="text-white bg-magenta !pb-0">
+<x-layout.section class="text-white bg-black !pb-0">
   <x-layout.inner>
     <x-layout.grid>
       <x-layout.span class="md:col-span-10 md:col-start-3">
@@ -92,7 +94,7 @@
             Wir freuen uns auf Ihre Kontaktaufnahme!<br>
             <a href="mailto:info@ay-training.ch" class="underline underline-offset-4 decoration-1 hover:no-underline">info@ay-training.ch</a>
           </p>
-          <div class="mt-16 md:mt-24 xl:mt-36 mb-8 md:mb-12 xl:mb-18 text-sm xl:text-base">
+          <div class="mt-24 md:mt-36 xl:mt-48 pb-24 xl:pb-18 text-sm xl:text-base">
             &copy; AY Training {{ date('Y') }}
           </div>
         </article>

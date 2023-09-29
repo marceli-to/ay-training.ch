@@ -8,6 +8,10 @@ body {
   @apply antialiased;
 }
 
+strong {
+  @apply font-sans font-semibold;
+}
+
 p {
   @apply mb-16 md:mb-24;
 }

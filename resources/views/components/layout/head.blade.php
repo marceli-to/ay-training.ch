@@ -17,5 +17,6 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 @vite('resources/css/app.css')
+@vite('resources/js/app.js')
 </head>
 <body class="font-sans font-light text-base md:text-md xl:text-lg xl:leading-8">
