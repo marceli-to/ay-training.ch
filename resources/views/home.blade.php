@@ -15,7 +15,6 @@
     </x-layout.grid>
   </x-layout.inner>
 </x-layout.section>
-
 <x-layout.section class="text-white bg-teal">
   <x-layout.inner>
     <x-layout.grid>
@@ -68,7 +67,6 @@
     </x-layout.grid>
   </x-layout.inner>
 </x-layout.section>
-
 <x-layout.section>
   <x-layout.inner>
     <x-layout.grid>
@@ -91,7 +89,6 @@
     </x-layout.grid>
   </x-layout.inner>
 </x-layout.section>
-
 <x-layout.section class="text-white bg-magenta">
   <x-layout.inner>
     <x-layout.grid>
@@ -111,7 +108,6 @@
     </x-layout.grid>
   </x-layout.inner>
 </x-layout.section>
-
 <x-layout.section class="text-white bg-black !pb-0">
   <x-layout.inner>
     <x-layout.grid>
