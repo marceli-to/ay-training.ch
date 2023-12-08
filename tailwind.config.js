@@ -14,7 +14,7 @@ export default {
 
       colors: {
         'teal': '#348979',
-        'magenta': '#E8336F',
+        'magenta': '#BA2959',
       },
 
       fontFamily: {
