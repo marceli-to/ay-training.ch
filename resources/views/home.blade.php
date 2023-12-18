@@ -75,7 +75,7 @@
           <x-heading.h2>
             Über uns
           </x-heading.h2>
-          <p>AY! GmbH besteht aus zwei anerkannte Fachpersonen aus dem Gesundheitswesen, eine Pflegeexpertin APN und eine Fachpsychologin. Wir verfügen über langjährige Praxiserfahrung im Gesundheitswesen, sowie in Schulung und Training von Fachpersonen aus unterschiedlichen Berufsfeldern. Wir sind Expertinnen im Fördern Ihrer Kompetenzen im Umgang mit herausforderndem Verhalten, Aggression und Gewalt am Arbeitsplatz.</p>
+          <p>AY! GmbH besteht aus zwei anerkannten Fachpersonen aus dem Gesundheitswesen, eine Pflegeexpertin APN und eine Fachpsychologin. Wir verfügen über langjährige Praxiserfahrung im Gesundheitswesen, sowie in Schulung und Training von Fachpersonen aus unterschiedlichen Berufsfeldern. Wir sind Expertinnen im Fördern Ihrer Kompetenzen im Umgang mit herausforderndem Verhalten, Aggression und Gewalt am Arbeitsplatz.</p>
           <div class="mt-36 md:mt-48">
             <x-team image="ay-training-anita-stooss" name="Anita Stooss" email="anita.stooss@ay-training.ch">
               <x-cv.anita />
@@ -99,10 +99,8 @@
           </x-heading.h2>
           <p>Hier finden Sie Publikationen und Links zu von oder mit uns publizierten Artikeln:</p>
           <p><a href="https://www.tandfonline.com/doi/full/10.1080/17518423.2019.1604579" target="_blank" class="underline underline-offset-4 decoration-1 hover:no-underline  block py-2 sm:py-0 mb-4">Meier S., Uenver Y., Stooss A. & Meyer-Heim A. (2020). Frequency, Characteristics and Risk Factors of Aggressive Incidents in a Paediatric Rehabilitation Setting: A Prospective Survey, Developmental Neurorehabilitation, 23:1, 9-17, DOI: 10.1080/17518423.2019.1604579</a></p>
-
-          <p><a href="https://designrr.page/?id=109230&token=4048849102&type=FP&h=9116" target="_blank" class="underline underline-offset-4 decoration-1 hover:no-underline  block py-2 sm:py-0 mb-4">Stooss, A. (2021). Aikido principles in aggression management for care facilities. TAE Journal, The Official Journal of Traditional Aikido Europe, 6th edition. https://designrr.page/?id=109230&token=4048849102&type=FP&h=9116</a></p>
-
-          <p><a href="https://www.hiki.ch/fileadmin/user_upload/redakteure/dateien/Downloads/Bulletins/hiki_Bulletin_2022_web.pdf" target="_blank" class="underline underline-offset-4 decoration-1 hover:no-underline block py-2 sm:py-0 mb-4">Interview mit Yugus Ünver im kiki-Bulletin 2022</a></p>
+          <p><a href="https://designrr.page/?id=109230&token=4048849102&type=FP&h=9116" target="_blank" class="underline underline-offset-4 decoration-1 hover:no-underline  block py-2 sm:py-0 mb-4">Stooss, A. (2021). Aikido principles in aggression management for care facilities. TAE Journal, The Official Journal of Traditional Aikido Europe, 6th edition.</a></p>
+          <p><a href="https://www.hiki.ch/fileadmin/user_upload/redakteure/dateien/Downloads/Bulletins/hiki_Bulletin_2022_web.pdf" target="_blank" class="underline underline-offset-4 decoration-1 hover:no-underline block py-2 sm:py-0 mb-4">Interview mit Yugus Ünver im hiki-Bulletin 2022</a></p>
         </article>
       </x-layout.span>
     </x-layout.grid>
@@ -121,7 +119,7 @@
             <a href="mailto:info@ay-training.ch" class="underline underline-offset-4 decoration-1 hover:no-underline">info@ay-training.ch</a>
           </p>
           <div class="mt-24 md:mt-36 xl:mt-48 pb-24 xl:pb-18 text-sm xl:text-base">
-            &copy; AY Training {{ date('Y') }}
+            &copy; AY! Prävention Deeskalation Training GmbH {{ date('Y') }}
           </div>
         </article>
       </x-layout.span>

@@ -22,6 +22,6 @@ return [
   |
   */
 
-  'description' => 'Konflikte, herausforderndes Verhalten und Aggression sind relevante Themen im Gesundheits- und Sozialwesen, sowie auch anderen Arbeitsbereichen. Sie fordern heraus, belasten, sind unbequem oder gar bedrohlich. Werden Frühwarnzeichen rechtzeitig erkannt, gibt es verschiedene Möglichkeiten, präventiv zu wirken. Mit Theorie und praktischem Training vermitteln wir die erforderlichen Kompetenzen, um in potenziell eskalierenden Situationen gelassener und professionell zu handeln, und die Integrität des Gegenübers zu wahren.',   
+  'description' => 'Aggression, herausforderndes Verhalten, sowie Konflikte am Arbeitsplatz sind relevante Themen im Gesundheits- und Sozialwesen, sowie in anderen Arbeitsfeldern. Diese fordern heraus, belasten, sind unbequem oder gar bedrohlich. Mit Theorie und praktischem Training vermitteln wir die erforderlichen Kompetenzen, um in eskalierenden Situationen professionell, deeskalierend und sicher zu handeln, und dabei die Integrität des Gegenübers zu wahren.',   
 
 ];
